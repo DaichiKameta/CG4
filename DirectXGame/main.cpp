@@ -5,6 +5,7 @@
 #include "LightGroup.h"
 #include "ParticleManager.h"
 
+
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE,HINSTANCE,LPSTR,int)
 {
